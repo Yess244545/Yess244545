@@ -19,7 +19,7 @@
 Me gusta trabajar en el ✨diseño y desarrollo de sitios web responsivos✨ para garantizar que los usuarios tengan una experiencia fluida y satisfactoria mientras navegan por el sitio.
 <h2> Acerca de mí</h2>
 
-- :credit_card: Mi nombre completo es **Yessenia Medina Ticona** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: Mi nombre completo es **Yessenia Medina Ticona** <img src="https://media2.giphy.com/media/ule4vhcY1xEKQ/giphy.gif?cid=ecf05e47yj286c6fqyx8ihsa1lu4voc01ur8u0kjp6ij12bx&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400" align="right"/>
 - :school: Estudié en la **Universidad NAcional del Altiplano - Puno**
 - :books: Carrera: **Ingenieria de Sistemas - Ciencias de la Educación**
 - :earth_asia: Vivo en **Puno, Perú**
