@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, 👋 soy Yessenia</h1>
+<h1 align="center"> Hola, 👋 soy Yessenia :sparkling_heart:</h1>
 <h2 align="center">Full-Stack Developer Web | HTML | CSS | JavaScript | React | node.js | postgres SQL</h2>
 <div align="center">
   <a href="https://github.com/rishavanand" target="_blank">
